@@ -1,0 +1,2554 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "2342462491509656901",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T04:02:00-08:00",
+      "updated": "2021-02-10T04:02:47-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/prefrontal-cortex.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2342462491509656901",
+      "title": "Prefrontal cortex",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2342462491509656901/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU4NTY3NDAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7349683840541883501",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:59:00-08:00",
+      "updated": "2021-02-10T04:18:43-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/basal-ganglia.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7349683840541883501",
+      "title": "Basal ganglia",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7349683840541883501/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU5NTIzODM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4891779501398300471",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:56:00-08:00",
+      "updated": "2021-02-10T03:56:30-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/globus-pallidus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4891779501398300471",
+      "title": "Globus pallidus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4891779501398300471/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU4MTkwNTgxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3580306211664135067",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:54:00-08:00",
+      "updated": "2021-02-10T03:54:02-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/lateral-ventricles.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3580306211664135067",
+      "title": "Lateral ventricles",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3580306211664135067/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU4MDQyMDk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5465300091756795991",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:51:00-08:00",
+      "updated": "2021-02-10T03:51:34-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/pons.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5465300091756795991",
+      "title": "Pons",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5465300091756795991/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU3ODk0ODAyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8280350110169615307",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:48:00-08:00",
+      "updated": "2021-02-10T03:48:30-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/ventraltegmental-area.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8280350110169615307",
+      "title": "Ventral.tegmental area",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8280350110169615307/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU3NzEwMjM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7199215186828259101",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:45:00-08:00",
+      "updated": "2021-02-10T03:45:52-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/superior-temporal-sulcus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7199215186828259101",
+      "title": "Superior temporal  sulcus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7199215186828259101/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU3NTUyNjk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5721127520386365109",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:43:00-08:00",
+      "updated": "2021-02-10T03:43:22-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/circle-ofwillis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5721127520386365109",
+      "title": "Circle of_Willis",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5721127520386365109/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU3NDAyOTIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3011122744667128995",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:40:00-08:00",
+      "updated": "2021-02-10T03:40:44-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/temporoparieta-junction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3011122744667128995",
+      "title": "Temporoparieta junction",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3011122744667128995/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU3MjQ0NjU1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3204931208756047659",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:35:00-08:00",
+      "updated": "2021-02-10T03:35:30-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/internal-capsule.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3204931208756047659",
+      "title": "Internal capsule",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3204931208756047659/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU2OTMwNzY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7519627957377497711",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:28:00-08:00",
+      "updated": "2021-02-10T03:28:55-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cerebral-aqueduct.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7519627957377497711",
+      "title": "Cerebral aqueduct",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7519627957377497711/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU2NTM1MDAyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1747724469546824634",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:26:00-08:00",
+      "updated": "2021-02-10T03:26:34-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/bloodbrain-barrier.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1747724469546824634",
+      "title": "Blood–brain barrier",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1747724469546824634/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU2Mzk0MzYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "280827736693138618",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:23:00-08:00",
+      "updated": "2021-02-10T03:23:34-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/hypophyseal-portal-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/280827736693138618",
+      "title": "Hypophyseal  portal system",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/280827736693138618/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU2MjE0NDMyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4943969203282074186",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:13:00-08:00",
+      "updated": "2021-02-10T03:13:56-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/pituitary-gland.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4943969203282074186",
+      "title": "Pituitary gland",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4943969203282074186/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU1NjM2Njc3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3236244099393355456",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:10:00-08:00",
+      "updated": "2021-02-10T03:10:02-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/human-brain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3236244099393355456",
+      "title": "Human brain",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3236244099393355456/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU1NDAyNTIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5696446130726255779",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T03:00:00-08:00",
+      "updated": "2021-02-10T03:00:14-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/arachnoid-granulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5696446130726255779",
+      "title": "Arachnoid granulation",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5696446130726255779/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU0ODE0Mjc3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1096627902655033935",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T02:57:00-08:00",
+      "updated": "2021-02-10T02:57:51-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/ventricular-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1096627902655033935",
+      "title": "Ventricular system",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1096627902655033935/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU0NjcxNzg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8190201818754441599",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T02:55:00-08:00",
+      "updated": "2021-02-10T02:55:00-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/metencephalon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8190201818754441599",
+      "title": "Metencephalon",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8190201818754441599/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU0NTAwODgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3310785961663930716",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T00:20:00-08:00",
+      "updated": "2021-02-10T00:20:40-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/posterior-parietal-cortex.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3310785961663930716",
+      "title": "Posterior parietal cortex",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3310785961663930716/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQ1MjQwNTM0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5653941155353830104",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T00:18:00-08:00",
+      "updated": "2021-02-10T00:18:36-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/optic-tract.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5653941155353830104",
+      "title": "Optic tract",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5653941155353830104/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQ1MTE2ODY2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2735777559116507064",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T00:16:00-08:00",
+      "updated": "2021-02-10T00:16:25-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/isolated-brain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2735777559116507064",
+      "title": "Isolated brain",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2735777559116507064/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQ0OTg1MDM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2198963023836214962",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T00:13:00-08:00",
+      "updated": "2021-02-10T00:13:50-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/lateral-lemniscus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2198963023836214962",
+      "title": "Lateral lemniscus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2198963023836214962/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQ0ODMwMTk3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5883870587978291337",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T00:11:00-08:00",
+      "updated": "2021-02-10T00:11:05-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/lateral-geniculate-nucleus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5883870587978291337",
+      "title": "Lateral geniculate nucleus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5883870587978291337/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQ0NjY1ODgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1718598860052674064",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T00:08:00-08:00",
+      "updated": "2021-02-10T00:08:03-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/limbic-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1718598860052674064",
+      "title": "Limbic system",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1718598860052674064/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQ0NDgzOTgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3544875371913070574",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-10T00:04:00-08:00",
+      "updated": "2021-02-10T00:04:32-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/amygdala.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3544875371913070574",
+      "title": "Amygdala",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3544875371913070574/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQ0MjcyMTgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "627477450067018366",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:59:00-08:00",
+      "updated": "2021-02-09T23:59:56-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/albert-einsteins-brain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/627477450067018366",
+      "title": "Albert Einstein's brain",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/627477450067018366/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQzOTk2OTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1338698833939195983",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:56:00-08:00",
+      "updated": "2021-02-09T23:56:55-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/brainstem.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1338698833939195983",
+      "title": "Brainstem",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1338698833939195983/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQzODE1ODE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4616810345251998815",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:54:00-08:00",
+      "updated": "2021-02-09T23:54:04-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cerebellum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4616810345251998815",
+      "title": "Cerebellum",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4616810345251998815/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQzNjQ0MDgxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3671238742050287101",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:50:00-08:00",
+      "updated": "2021-02-09T23:50:01-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/corpus-callosum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3671238742050287101",
+      "title": "Corpus callosum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3671238742050287101/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQzNDAxNzQ2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8243341802985992295",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:47:00-08:00",
+      "updated": "2021-02-09T23:47:16-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/claustrum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8243341802985992295",
+      "title": "Claustrum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8243341802985992295/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQzMjM2MDE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6581880460836642317",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:44:00-08:00",
+      "updated": "2021-02-09T23:44:15-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/forebrain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6581880460836642317",
+      "title": "Forebrain",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6581880460836642317/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQzMDU1NjMyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7840756227187579384",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:42:00-08:00",
+      "updated": "2021-02-09T23:42:23-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/anterior-commissure.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7840756227187579384",
+      "title": "Anterior commissure",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7840756227187579384/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQyOTQzMzcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7733479872960803999",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:40:00-08:00",
+      "updated": "2021-02-09T23:40:10-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cavernous-sinus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7733479872960803999",
+      "title": "Cavernous sinus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7733479872960803999/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQyODEwNjQyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "387872526659493349",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:37:00-08:00",
+      "updated": "2021-02-09T23:37:30-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cave-of-septum-pellucidum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/387872526659493349",
+      "title": "Cave of septum pellucidum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/387872526659493349/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQyNjUwOTg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4031030261323648803",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:35:00-08:00",
+      "updated": "2021-02-09T23:35:14-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/postcentral-gyrus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4031030261323648803",
+      "title": "Postcentral gyrus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4031030261323648803/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQyNTE0NTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "969824177480924167",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T23:33:00-08:00",
+      "updated": "2021-02-09T23:33:10-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/primary-motor-cortex.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/969824177480924167",
+      "title": "Primary motor cortex",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/969824177480924167/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTQyMzkwNTgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3610540344658906498",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T21:19:00-08:00",
+      "updated": "2021-02-09T21:19:14-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/nucleus-accumbens.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3610540344658906498",
+      "title": "Nucleus accumbens",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3610540344658906498/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTM0MzU0NzI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8880885968116788647",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T21:14:00-08:00",
+      "updated": "2021-02-09T21:14:41-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/medulla-oblongata.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8880885968116788647",
+      "title": "Medulla oblongata",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8880885968116788647/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTM0MDgxMDEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8074557009296577632",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T21:11:00-08:00",
+      "updated": "2021-02-09T21:11:54-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/motor-cortex.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8074557009296577632",
+      "title": "Motor cortex",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8074557009296577632/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMzOTE0NzAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4384886123081006825",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T21:08:00-08:00",
+      "updated": "2021-02-09T21:08:53-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/retrosplenial-cortex.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4384886123081006825",
+      "title": "Retrosplenial cortex",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4384886123081006825/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMzNzMzMzM2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2257400422826669932",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T21:06:00-08:00",
+      "updated": "2021-02-09T21:06:30-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/hindbrain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2257400422826669932",
+      "title": "Hindbrain",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2257400422826669932/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMzNTkwNjUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8534497591725704670",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T21:04:00-08:00",
+      "updated": "2021-02-09T21:04:26-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/fornix-neuroanatomy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8534497591725704670",
+      "title": "Fornix (neuroanatomy)",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8534497591725704670/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMzNDY2MDgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6596771445399176463",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T21:01:00-08:00",
+      "updated": "2021-02-09T21:01:55-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/dural-venous-sinuses.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6596771445399176463",
+      "title": "Dural venous sinuses",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6596771445399176463/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMzMzE1MTczCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6820925039456306803",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:59:00-08:00",
+      "updated": "2021-02-09T20:59:45-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/putamen.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6820925039456306803",
+      "title": "Putamen",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6820925039456306803/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMzMTg1Nzc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2290527089372540009",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:56:00-08:00",
+      "updated": "2021-02-09T20:56:05-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/mammillary-body.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2290527089372540009",
+      "title": "Mammillary body",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2290527089372540009/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMyOTY1NzQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9035486764761841420",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:40:00-08:00",
+      "updated": "2021-02-09T20:40:56-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/midbrain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/9035486764761841420",
+      "title": "Midbrain",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/9035486764761841420/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMyMDU2MjI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6440426344326337159",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:34:00-08:00",
+      "updated": "2021-02-09T20:34:04-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/tuberoinfundibular-pathway.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6440426344326337159",
+      "title": "Tuberoinfundibular pathway",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6440426344326337159/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMxNjQ0MjQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6702772711186670903",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:31:00-08:00",
+      "updated": "2021-02-09T20:31:32-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/caudate-nucleus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6702772711186670903",
+      "title": "Caudate nucleus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6702772711186670903/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMxNDkyOTcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2874908390016100813",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:15:00-08:00",
+      "updated": "2021-02-09T20:15:45-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/brodmann-area-5.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2874908390016100813",
+      "title": "Brodmann area 5",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2874908390016100813/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMwNTQ1Nzc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8040113537177090675",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:13:00-08:00",
+      "updated": "2021-02-09T20:13:52-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/brodmann-area-6.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8040113537177090675",
+      "title": "Brodmann area 6",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8040113537177090675/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMwNDMyOTEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1560077629729868143",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:11:00-08:00",
+      "updated": "2021-02-09T20:11:50-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/brodmann-area-7.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1560077629729868143",
+      "title": "Brodmann area 7",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1560077629729868143/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMwMzEwMTkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5065457291639367105",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:09:00-08:00",
+      "updated": "2021-02-09T20:09:12-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/brodmann-area-8.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5065457291639367105",
+      "title": "Brodmann area 8",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5065457291639367105/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMwMTUyMzcyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1889931440332195460",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T20:06:00-08:00",
+      "updated": "2021-02-09T20:06:56-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cranial-nerves.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1889931440332195460",
+      "title": "Cranial nerves",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1889931440332195460/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTMwMDE2NDE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7582802095744296460",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T19:02:00-08:00",
+      "updated": "2021-02-09T19:02:41-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/fourth-ventricle.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7582802095744296460",
+      "title": "Fourth ventricle",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7582802095744296460/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI2MTYxMTA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6061087745121548117",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T19:00:00-08:00",
+      "updated": "2021-02-09T19:00:11-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/pineal-gland.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6061087745121548117",
+      "title": "Pineal gland",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6061087745121548117/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI2MDExOTYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9142135523977244027",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:56:00-08:00",
+      "updated": "2021-02-09T18:56:18-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/archipallium.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/9142135523977244027",
+      "title": "Archipallium",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/9142135523977244027/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI1Nzc4OTYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7852534788246943532",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:54:00-08:00",
+      "updated": "2021-02-10T04:15:28-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/bicameralism-psychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7852534788246943532",
+      "title": "Bicameralism (psychology)",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7852534788246943532/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU5MzI4NzA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7788502989895376615",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:48:00-08:00",
+      "updated": "2021-02-09T18:48:46-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/inside-out-2015-film.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7788502989895376615",
+      "title": "Inside Out (2015 film)",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7788502989895376615/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI1MzI2MzQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6150102471914837927",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:44:00-08:00",
+      "updated": "2021-02-09T18:44:24-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/supplementary-motor-area.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6150102471914837927",
+      "title": "Supplementary motor area",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6150102471914837927/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI1MDY0MDU0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6370246112718766713",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:34:00-08:00",
+      "updated": "2021-02-09T18:34:04-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/encephalization-quotient.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6370246112718766713",
+      "title": "Encephalization quotient",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6370246112718766713/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI0NDQ0MDM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5906137019836772857",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:31:00-08:00",
+      "updated": "2021-02-09T18:31:03-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/red-nucleus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5906137019836772857",
+      "title": "Red nucleus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5906137019836772857/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI0MjYzODg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8763879354746698641",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:28:00-08:00",
+      "updated": "2021-02-09T18:28:45-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/medial-forebrain-bundle.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8763879354746698641",
+      "title": "Medial forebrain bundle",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8763879354746698641/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTI0MTI1MzgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2933935326926726529",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:26:00-08:00",
+      "updated": "2021-02-09T18:26:23-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/lateralization-of-brain-function.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2933935326926726529",
+      "title": "Lateralization of brain function",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2933935326926726529/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTIzOTgzNDYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5310367560520702930",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:23:00-08:00",
+      "updated": "2021-02-09T18:23:11-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/mesocortical-pathway.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5310367560520702930",
+      "title": "Mesocortical pathway",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5310367560520702930/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTIzNzkxODU3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7214888199735952620",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:21:00-08:00",
+      "updated": "2021-02-09T18:21:28-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/mesolimbic-pathway.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7214888199735952620",
+      "title": "Mesolimbic pathway",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7214888199735952620/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTIzNjg4ODQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3337426553515292295",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T18:19:00-08:00",
+      "updated": "2021-02-10T04:16:28-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cortical-minicolumn.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3337426553515292295",
+      "title": "Cortical minicolumn",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3337426553515292295/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTU5Mzg4NTA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "385996777045376560",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T17:10:00-08:00",
+      "updated": "2021-02-09T17:10:08-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/ten-percent-of-brain-myth.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/385996777045376560",
+      "title": "Ten percent of the brain myth",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/385996777045376560/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE5NDA4MDgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7010169704231127795",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T17:06:00-08:00",
+      "updated": "2021-02-09T17:06:58-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/pia-mater.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7010169704231127795",
+      "title": "Pia mater",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7010169704231127795/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE5MjE4OTUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4597206363252630781",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:49:00-08:00",
+      "updated": "2021-02-09T16:49:21-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cerebellar-tentorium.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4597206363252630781",
+      "title": "Cerebellar tentorium",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4597206363252630781/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE4MTYxNjQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5171605429906226188",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:47:00-08:00",
+      "updated": "2021-02-09T16:47:29-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/nigrostriatal-pathway.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5171605429906226188",
+      "title": "Nigrostriatal pathway",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5171605429906226188/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE4MDQ5NzY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3319715436159540339",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:45:00-08:00",
+      "updated": "2021-02-09T16:45:04-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/neocortex.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3319715436159540339",
+      "title": "Neocortex",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3319715436159540339/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE3OTA0NzgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4874296706457373611",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:42:00-08:00",
+      "updated": "2021-02-09T16:42:52-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/wernickes-area.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4874296706457373611",
+      "title": "Wernicke's area",
+     "content": "",
+	 "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4874296706457373611/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE3NzcyMzg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6828439999403063368",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:39:00-08:00",
+      "updated": "2021-02-09T16:39:34-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/olfactory-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6828439999403063368",
+      "title": "Olfactory system",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6828439999403063368/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE3NTc0ODUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8766342198972542684",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:36:00-08:00",
+      "updated": "2021-02-09T16:36:13-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/subiculum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8766342198972542684",
+      "title": "Subiculum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8766342198972542684/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE3MzczNjkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2701732458059496371",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:34:00-08:00",
+      "updated": "2021-02-09T16:34:05-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/islands-of-calleja.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2701732458059496371",
+      "title": "Islands of Calleja",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2701732458059496371/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE3MjQ1NTEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7497093969840131282",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:31:00-08:00",
+      "updated": "2021-02-09T16:31:27-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/perineuronal-net.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7497093969840131282",
+      "title": "Perineuronal net",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7497093969840131282/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE3MDg3ODQyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7930878149198096313",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:28:00-08:00",
+      "updated": "2021-02-09T16:28:21-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/subarachnoid-cisterns.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7930878149198096313",
+      "title": "Subarachnoid cisterns",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7930878149198096313/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE2OTAxODYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7479231726686065172",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T16:26:00-08:00",
+      "updated": "2021-02-09T16:26:13-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/midbrain-tegmentum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7479231726686065172",
+      "title": "Midbrain tegmentum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7479231726686065172/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTE2NzczNTYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8532738964381652775",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T12:02:00-08:00",
+      "updated": "2021-02-09T12:02:55-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cavum-veli-interpositi.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8532738964381652775",
+      "title": "Cavum veli interpositi",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8532738964381652775/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTAwOTc1NTE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2791529194043097324",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T12:00:00-08:00",
+      "updated": "2021-02-09T12:00:57-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/rhomboid-fossa.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2791529194043097324",
+      "title": "Rhomboid fossa",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2791529194043097324/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTAwODU3OTkyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7696952419217887645",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T11:57:00-08:00",
+      "updated": "2021-02-09T11:57:58-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/rostral-migratory-stream.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7696952419217887645",
+      "title": "Rostral migratory stream",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7696952419217887645/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTAwNjc4NzI1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3775353953474805989",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T11:54:00-08:00",
+      "updated": "2021-02-09T11:54:29-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/falx-cerebri.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3775353953474805989",
+      "title": "Falx cerebri",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/3775353953474805989/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTAwNDY5ODc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6728475446185490442",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T11:50:00-08:00",
+      "updated": "2021-02-09T11:50:57-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/tuber-cinereum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6728475446185490442",
+      "title": "Tuber cinereum",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6728475446185490442/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTAwMjU3MDczCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "577379213239207999",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T11:48:00-08:00",
+      "updated": "2021-02-09T11:48:18-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/default-mode-network.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/577379213239207999",
+      "title": "Default mode network",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/577379213239207999/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyOTAwMDk4Njk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "262017397546382719",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T11:42:00-08:00",
+      "updated": "2021-02-09T11:42:57-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/choroid-plexus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/262017397546382719",
+      "title": "Choroid plexus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/262017397546382719/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODk5Nzc3MjYzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2202863253577557426",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T11:39:00-08:00",
+      "updated": "2021-02-09T11:39:19-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/cerebrospinal-fluid.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2202863253577557426",
+      "title": "Cerebrospinal fluid",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2202863253577557426/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODk5NTU5OTA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "483991169722424243",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T04:37:00-08:00",
+      "updated": "2021-02-09T04:37:48-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/subventricular-zone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/483991169722424243",
+      "title": "Subventricular zone",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/483991169722424243/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODc0MjY4MTA5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8041305240547129864",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T04:34:00-08:00",
+      "updated": "2021-02-09T04:34:45-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/subgranular-zone.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8041305240547129864",
+      "title": "Subgranular zone",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8041305240547129864/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODc0MDg1MzgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7989112551358048413",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T04:30:00-08:00",
+      "updated": "2021-02-09T04:30:58-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/third-ventricle.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7989112551358048413",
+      "title": "Third ventricle",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/7989112551358048413/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODczODU4MTA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6303759340836953431",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T04:28:00-08:00",
+      "updated": "2021-02-09T04:28:35-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/brocas-area.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6303759340836953431",
+      "title": "Broca's area",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/6303759340836953431/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODczNzE1MTUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1581914904414771536",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T04:24:00-08:00",
+      "updated": "2021-02-09T04:24:11-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/circumventricular-organs.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1581914904414771536",
+      "title": "Circumventricular organs",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1581914904414771536/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODczNDUxNTU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8337064232113415949",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T03:53:00-08:00",
+      "updated": "2021-02-09T03:53:23-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/brodmann-area-10.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8337064232113415949",
+      "title": "Brodmann area 10",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8337064232113415949/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODcxNjAzMTg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8784625331186539667",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T03:49:00-08:00",
+      "updated": "2021-02-09T03:49:52-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/substantia-nigra.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8784625331186539667",
+      "title": "Substantia nigra",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/8784625331186539667/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODcxMzkyNzkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2351753629954910287",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T03:13:00-08:00",
+      "updated": "2021-02-09T03:13:57-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/corpora-quadrigemina.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2351753629954910287",
+      "title": "Corpora quadrigemina",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/2351753629954910287/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODY5MjM3MTQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1382280234634761456",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T00:18:00-08:00",
+      "updated": "2021-02-09T00:18:33-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/lentiform-nucleus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1382280234634761456",
+      "title": "Lentiform nucleus",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/1382280234634761456/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODU4NzEzNTgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4084029870204197414",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T00:14:00-08:00",
+      "updated": "2021-02-09T00:14:21-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/extrapyramidal-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4084029870204197414",
+      "title": "Extrapyramidal system",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/4084029870204197414/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODU4NDYxNDIxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5684456376030384698",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T00:11:00-08:00",
+      "updated": "2021-02-09T00:11:53-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/raphe-nuclei.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5684456376030384698",
+      "title": "Raphe nuclei",
+      "content": "",
+	  "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5684456376030384698/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODU4MzEzMDI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5332655017844451020",
+      "blog": {
+        "id": "6165266739009708566"
+      },
+      "published": "2021-02-09T00:08:00-08:00",
+      "updated": "2021-02-09T00:08:49-08:00",
+      "url": "http://brainen.blogspot.com/2021/02/solitary-nucleus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5332655017844451020",
+      "title": "Solitary nucleus",
+      "content": "",
+      "author": {
+        "id": "16238446485332786313",
+        "displayName": "Musri'ah",
+        "url": "https://www.blogger.com/profile/16238446485332786313",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6165266739009708566/posts/5332655017844451020/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyODU4MTI5ODM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wMi0xMFQxMjoxODo0My44Mzda\""
+}
